@@ -1,5 +1,5 @@
 ### 👋🏼 Hello there, I’m Jianlin!
-Illustration of real-time image segmentation Algorithm👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
+👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
