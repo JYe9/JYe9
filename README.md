@@ -3,10 +3,6 @@
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
-📚 I’m currently working in the KIOS Research and Innovation Centre of Excellence (KIOS CoE) as a Software Engineer in the field of Computer Vision.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
-
 # Selected Experience
 
 ## 🤖 Open Source Contributions
