@@ -3,17 +3,13 @@
 
 🔬 My research interests are in Computer vision and Self-Supervised Learning!
 
-# Selected Experience
-
 ## 🤖 Open Source Contributions
-I have experience contributing to [Mutiple Stereo Cameras indoor 3D Positioning System](https://github.com/JYe9/multiple_OAK-D_cameras_3D_indoor_positioning) an open-source project for indoor 3D positioning using Deep Learning Algorithim.
+I have experience contributing to some computer vision related projects.
 
 Moreover, I have published a [research paper](https://jye9.github.io//publication/2023-06-26-CNN-based-Real-time-Forest-Fire-Detection-System) at the 31st Mediterranean Conference on Control and Automation (MED) conference.
 
 ## 📜 Reimplementing and Reproducing Papers
 I have experience in independent research. I have reproduced many of the classic papers in **Computer Vision** using Python, and the reproduced code can be seen in my [GitHub repository](https://github.com/JYe9?tab=repositories).
-
-<!-- Feel free to look at my specific [portfolio entry](https://jye9.github.io/publications/). -->
 
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as a **Software Engineer**. \
