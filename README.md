@@ -1,6 +1,6 @@
 # Kristian (Jianlin) Ye <a href="https://www.linkedin.com/in/jye9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="linkedin"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JYe9&count_private=true&show_icons=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JYe9" />
 
 ## About 
 👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
@@ -24,3 +24,4 @@
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/JYe9)](https://github.com/JYe9)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/JYe9)](https://github.com/JYe9)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYe9&hide=javascript,html,css,scss,solidity,gdscript" />
