@@ -1,120 +1,26 @@
-### 👋🏼 Hello there, I’m Jianlin!
+# Kristian (Jianlin) Ye <a href="https://www.linkedin.com/in/jye9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="linkedin"></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JYe9&count_private=true&show_icons=true&include_all_commits=true" />
+
+## About 
 👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
 
-🔬 My research interests are in Computer vision and Self-Supervised Learning!
+## Skills
 
-## 🤖 Open Source Contributions
-I have experience contributing to some computer vision related projects.
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
 
-Moreover, I have published a [research paper](https://jye9.github.io//publication/2023-06-26-CNN-based-Real-time-Forest-Fire-Detection-System) at the 31st Mediterranean Conference on Control and Automation (MED) conference.
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience in independent research. I have reproduced many of the classic papers in **Computer Vision** using Python, and the reproduced code can be seen in my [GitHub repository](https://github.com/JYe9?tab=repositories).
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/JYe9/Front-End-Dev)](https://github.com/JYe9/)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/JYe9/Front-End-Dev)](https://github.com/JYe9) 
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/JYe9/Front-End-Dev)](https://github.com/JYe9) 
 
-## 👨🏻‍🔬 Professional Experience
-Additionally, I have professional experience working as a **Software Engineer**. \
-I utilise python and C# for software development. 
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/JYe9)](https://github.com/JYe9)
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@kristianye562) and [Medium](https://medium.com/@skristian266) channel for AI-related content.
-
-### Programming languages
-
-<table align="center" style="border-collapse: collapse; border: none;font-size:14px">
-  <tr style="border: none;">
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>
-         <br/><p align="center">Python</p>
-    </div>
-    </td>
-    <td style="border: none;">
-      <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png"/>
-        <br/><p align="center">Rust</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"/>
-        <br/><p align="center">C#</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png"/>
-        <br/><p align="center">Java</p>
-      </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="55" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
-        <br/> <p align="center">MATLAB</p>
-    </div>
-    </td>
-  </tr>
-</table>
-
-
-### Data science frameworks
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="80" height="50" src="http://amueller.github.io/sklearn_014_015_pydata/sklearn-logo.png"/>
-         <br/><p align="center">Scikit-learn</p>
-    </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://miro.medium.com/v2/resize:fit:5000/1*8AaAYxLb-VOgGUW8V8JXQA.png"/>
-        <br/><p align="center"> PyTorch</p>
-    </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="63" height="50" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/>
-        <br/><p align="center"> Pandas</p>
-    </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="63" height="50" src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?ssl=1"/>
-        <br/><p align="center"> Tensorflow</p>
-    </div>
-    </td>
-  </tr>
-</table>
-
-
-### Tools
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
-         <br/><p align="center">Git</p>
-      </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"/>
-        <br/><p align="center"> Docker</p>
-    </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png"/>
-        <br/> <p align="center">VSCode</p>
-    </div>
-    </td>
-    <td style="border: none;">
-    <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf_.jpg"/>
-        <br/><p align="center"> Jupyter</p>
-    </div>
-    </td>
-  </tr>
-</table>
