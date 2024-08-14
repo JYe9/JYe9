@@ -8,7 +8,9 @@
 ## Skills
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+[![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/JYe9)](https://github.com/JYe9)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/JYe9)](https://github.com/JYe9)
