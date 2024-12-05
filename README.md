@@ -2,8 +2,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=JYe9" />
 
-## About 
-👨🏻‍💻 I am a software engineer with an electrical engineering background. My programming language of choice is Python, followed closely by C# and C++.
+## About  
+👨🏻‍💻 I am a Software Engineer with an Electrical Engineering background. My programming language of choice is Python, followed closely by Java and C++. I am also a Full Stack AI SaaS tools developer in my free time.  
+
+💻 Working on Computer Vision and Vision-Language Models at [KIOS Research and Innovation Center of Excellence](https://www.kios.ucy.ac.cy/).  
+
+💡 Open to academic and industrial collaborations. Feel free to reach out at `jye2020[AT]yahoo.com`.  
 
 ## Skills
 
@@ -25,5 +29,3 @@
 
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/JYe9)](https://github.com/JYe9)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/JYe9)](https://github.com/JYe9)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYe9&hide=javascript,html,css,scss,solidity,gdscript" />
