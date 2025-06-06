@@ -7,7 +7,7 @@
 
 💻 Working on Computer Vision and Vision-Language Models at [KIOS Research and Innovation Center of Excellence](https://www.kios.ucy.ac.cy/).  
 
-💡 Open to academic and industrial collaborations. Feel free to reach out at `jye2020[AT]yahoo.com`.  
+💡 Open to academic and industrial collaborations. Feel free to reach out at `info[AT]jye.bio`.  
 
 ## Skills
 
