@@ -5,7 +5,7 @@
 ## About  
 👨🏻‍💻 I am a Software Engineer with an Electrical Engineering background. My programming language of choice is Python, followed closely by Java and C++. I am also a Full Stack AI SaaS tools developer in my free time.  
 
-💻 Working on Computer Vision and Vision-Language Models at [KIOS Research and Innovation Center of Excellence](https://www.kios.ucy.ac.cy/).  
+💻 Working on Computer Vision (CV) and Natural Language Processing (NLP).
 
 💡 Open to academic and industrial collaborations. Feel free to reach out at `info[AT]jye.bio`.  
 
