@@ -20,7 +20,3 @@
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](#)
-
-
-## Github Stats
-![JYe9's github stats](https://github-readme-stats.vercel.app/api?username=JYe9&count_private=true&theme=tokyonight&hide=contribs,prs)
